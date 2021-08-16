@@ -1,0 +1,3 @@
+-Instalar dependencias con yarn install.
+-Correr con yarn start en el directorio del proyecto.
+-Abrir navegador en localhost:3000.
